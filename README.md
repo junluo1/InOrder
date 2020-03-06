@@ -1,7 +1,9 @@
 # Project-junluo01
-Project-junluo01
 
-Haozhao Zeng hauser
-Jun Luo  junluo01
-Yifan Xu
-Huichen Liu
+Team members:<br>
+Haozhao Zeng hauser<br>
+Jun Luo  junluo01<br>
+Yifan Xu<br>
+Huichen Liu<br>
+
+##### for more info, check project design
